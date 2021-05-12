@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://sitemaps.org/schemas/sitemap/0.9" >
+    <url>
+        <loc>https://group-of-lawyers.com</loc>
+        <lastmod>2021-05-02</lastmod>
+        <changefreq>month</changefreq>
+        <priotity>1.0</priotity>
+    </url>
+
+    <url>
+        <loc>https://group-of-lawyers.com/uslugi-advokata</loc>
+        <lastmod>2021-05-02</lastmod>
+        <changefreq>month</changefreq>
+        <priotity>0.9</priotity>
+    </url>
+
+    <url>
+        <loc>https://group-of-lawyers.com/novosti</loc>
+        <lastmod>2021-05-02</lastmod>
+        <changefreq>month</changefreq>
+        <priotity>0.9</priotity>
+    </url>
+
+    <url>
+        <loc>https://group-of-lawyers.com/nasha-komanda</loc>
+        <lastmod>2021-05-02</lastmod>
+        <changefreq>month</changefreq>
+        <priotity>0.9</priotity>
+    </url>
+
+    <url>
+        <loc>https://group-of-lawyers.com/kontakty</loc>
+        <lastmod>2021-05-02</lastmod>
+        <changefreq>month</changefreq>
+        <priotity>0.9</priotity>
+    </url>
+
+    <url>
+        <loc>https://group-of-lawyers.com/otzyvy</loc>
+        <lastmod>2021-05-02</lastmod>
+        <changefreq>month</changefreq>
+        <priotity>0.9</priotity>
+    </url>
+
+    <url>
+        <loc>https://group-of-lawyers.com/vyigranye-dela</loc>
+        <lastmod>2021-05-02</lastmod>
+        <changefreq>month</changefreq>
+        <priotity>0.9</priotity>
+    </url>
+
+
+    <url>
+        <loc>https://group-of-lawyers.com/uslugi-advokata/uslugi-yurista</loc>
+        <lastmod>2021-05-02</lastmod>
+        <changefreq>month</changefreq>
+        <priotity>0.6</priotity>
+    </url>
+
+    <url>
+        <loc>https://group-of-lawyers.com/uslugi-advokata/advokat-po-ugolovnum-delam</loc>
+        <lastmod>2021-05-02</lastmod>
+        <changefreq>month</changefreq>
+        <priotity>0.6</priotity>
+    </url>
+
+    <url>
+        <loc>https://group-of-lawyers.com/uslugi-advokata/advokat-po-semeynym-delam</loc>
+        <lastmod>2021-05-02</lastmod>
+        <changefreq>month</changefreq>
+        <priotity>0.6</priotity>
+    </url>
+
+    <url>
+        <loc>https://group-of-lawyers.com/uslugi-advokata/advokat-po-grazhdanskim-delam</loc>
+        <lastmod>2021-05-02</lastmod>
+        <changefreq>month</changefreq>
+        <priotity>0.6</priotity>
+    </url>
+
+    <url>
+        <loc>https://group-of-lawyers.com/uslugi-advokata/advokat-po-administrativnym-delam</loc>
+        <lastmod>2021-05-02</lastmod>
+        <changefreq>month</changefreq>
+        <priotity>0.6</priotity>
+    </url>
+
+    <url>
+        <loc>https://group-of-lawyers.com/uslugi-advokata/advokat-po-khozyajstvennym-sporam</loc>
+        <lastmod>2021-05-02</lastmod>
+        <changefreq>month</changefreq>
+        <priotity>0.6</priotity>
+    </url>
+
+    <url>
+        <loc>https://group-of-lawyers.com/uslugi-advokata/advokat-po-strakhovym-sporam</loc>
+        <lastmod>2021-05-02</lastmod>
+        <changefreq>month</changefreq>
+        <priotity>0.6</priotity>
+    </url>
+
+</urlset>
