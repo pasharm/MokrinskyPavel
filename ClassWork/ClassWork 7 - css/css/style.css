@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+padding:0;
+margin:0;
+}
+
+
+.box{
+    background-color: #a6dea0;
+    margin-bottom: 20px;
+}
+
+p,h2{
+    font-size: 23px;
+}
+
+.box-first-child p{
+    font-size: 14px;
+}
+
